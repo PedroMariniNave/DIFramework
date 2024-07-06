@@ -1,0 +1,11 @@
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\bin\Debug\net8.0\Vax.deps.json
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\bin\Debug\net8.0\Vax.dll
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\bin\Debug\net8.0\Vax.pdb
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\Vax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\Vax.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\Vax.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\Vax.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\Vax.dll
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\refint\Vax.dll
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\Vax.pdb
+C:\Users\Pedro\source\repos\Consumer.ConsoleApp\Vax\obj\Debug\net8.0\ref\Vax.dll
